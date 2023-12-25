@@ -96,9 +96,12 @@ include_once 'footer.php';
 
 > Hasil Output halaman `login.php` :
 
-![img](/Screenshot%20(247).png)
+![Screenshot (247)](https://github.com/AzwaDipani/Lab12Web/assets/115677539/586ebbc3-d1dc-4f9c-9c09-40b053b4fbb8)
+
 
 > Result :
+https://github.com/AzwaDipani/Lab12Web/assets/115677539/89ed8e4e-af69-49de-b9fa-dbe4f20a3e95
+
 
 
 ## Selesai, Terima Kasih
